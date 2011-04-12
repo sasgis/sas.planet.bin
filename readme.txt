@@ -7,8 +7,9 @@ vdemidov за переделку на корню всего что касается работы со скриптами и плагинам
  http://forum.ru-board.com/topic.cgi?forum=5&topic=25489&glp
 
 >>Скачать последнюю версию
- Полная - http://sasgis.ru/programs/SASPlanet.7z
- "Мини" - http://sasgis.ru/programs/SASPlanetMini.7z
+ http://sasgis.ru/programs/sasplanet/SASPlanet.php
+Основной пакет карт: https://bitbucket.org/vdemidov/sas.maps/get/tip.zip
+Дополнительный пакет карт: https://bitbucket.org/garl/plus.maps/get/tip.zip
 
 >>Описание
 	Программа SAS.Планета предназначена для просмотра и загрузки спутниковых
