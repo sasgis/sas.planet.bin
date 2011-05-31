@@ -1,7 +1,3 @@
-Выражаем благодарность: 
-KSV за помощь со склейкой в ECW.
-vdemidov за переделку на корню всего что касается работы со скриптами и плагинами.
-
 >>Обсуждение:
  http://www.sasgis.ru/forum/
  http://forum.ru-board.com/topic.cgi?forum=5&topic=25489&glp
