@@ -5,7 +5,7 @@
 >>Скачать последнюю версию
  http://sasgis.org/download/
 Основной пакет карт: https://bitbucket.org/sas_team/sas.maps/get/tip.zip
-Дополнительный пакет карт: https://bitbucket.org/garl/plus.maps/get/tip.zip
+Дополнительный пакет карт: https://bitbucket.org/sas_team/sas.plus.maps/get/tip.zip
 
 >>Описание
 	Программа SAS.Планета предназначена для просмотра и загрузки спутниковых
