@@ -1,7 +1,0 @@
-# use glob syntax.
-syntax: glob
-*.~*
-Categorymarks.sml
-Maps/Maps.ini
-SASPlanet.ini
-marks.sml
