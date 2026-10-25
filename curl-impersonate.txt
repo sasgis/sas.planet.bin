@@ -1,0 +1,50 @@
+﻿
+# Список профилей для движка curl-impersonate: одна строка - один профиль.
+# Комментарием считается всё от '#' и до конца строки. В комментариях после
+# профилей указана версия ОС, под которой работает имитируемый браузер.
+# Список должен соответствовать профилям, вшитым в libcurl-impersonate.dll;
+# полный перечень версий:
+# https://github.com/lexiforest/curl-impersonate/blob/main/docs/fingerprints.rst
+# Файл читается один раз при запуске приложения из папки, где находится
+# exe-файл. Профиля по умолчанию у библиотеки нет, поэтому в качестве
+# начального используется первый профиль из списка ниже.
+
+# Targets for the curl-impersonate engine: one target per line.
+# A comment is everything from '#' to the end of the line. The comments after 
+# the targets give the OS version that the impersonated browser runs on.
+# The list must match the targets compiled into libcurl-impersonate.dll;
+# the full version list:
+# https://github.com/lexiforest/curl-impersonate/blob/main/docs/fingerprints.rst
+# The file is read once at startup from the folder next to the executable;
+# there is no default target in the library, so the first target from the
+# list below is used as the initial value.
+
+# Firefox
+firefox155          # Windows 10
+firefox147          # macOS Tahoe
+firefox135          # macOS Sonoma
+
+# Chrome
+chrome152           # Windows 10
+chrome151           # Windows 10
+chrome150           # macOS Tahoe
+chrome146           # macOS Tahoe
+chrome145           # macOS Tahoe
+chrome142           # macOS Tahoe
+chrome136           # macOS Sequoia
+chrome133a          # macOS Sequoia
+chrome131           # macOS Sonoma
+chrome124           # macOS Sonoma
+chrome120           # macOS Sonoma
+chrome116           # Windows 10
+
+# Chrome Android
+chrome131_android   # Android 14
+
+# Edge
+edge101             # Windows 10
+
+# Safari
+safari270_ios       # iOS 27.0
+safari270           # macOS 27.0
+safari184           # macOS Sequoia
